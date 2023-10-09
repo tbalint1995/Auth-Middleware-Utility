@@ -14,7 +14,7 @@
 > Mivel a demó feladat nem tér ki részletesen erre a részre, előre elkészített felhasználónevet és hashelt jelszót használtam az adatbázisban. A valóságban természetesen a regisztráció során kell megvalósítani ezt a folyamatot, beleértve az e-mail küldését is.
 
 > [!NOTE]
-> Két felhasználónév található az adatbázisban: 
+> Két felhasználó található az adatbázisban: 
 
 **Az első felhasználó adatai a következők:**
 1. `felhasználónév "Prioris1"  és hozzá tartozó jelszó "Prioris1"`
